@@ -4,4 +4,4 @@ opencv-python
 pillow
 
 # Handle WinRT API
-# winsdk # You have to install it manually
+winsdk --prefer-binary
