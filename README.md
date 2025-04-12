@@ -80,7 +80,7 @@ Up to this point, WinRT has supported for several languages:
 - Windows 10, version 1803 or higher
 
 ```(python)
-pip install winrt-ocr-python
+pip install winsdk winrt-ocr-python
 ```
 **NOTICE:**
 
