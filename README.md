@@ -67,7 +67,6 @@ Up to this point, WinRT has supported for several languages:
 | zh-HK        | Chinese (Traditional, Hong Kong SAR) |
 | zh-TW        | Chinese (Traditional, Taiwan)     |
 
-## Comparations
 
 ## Recent Update
 
