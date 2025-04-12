@@ -21,6 +21,7 @@ dependencies = [
     "numpy",
     "opencv-python",
     "pillow"
+]
 license = "Apache-2.0"
 license-files = ["LICEN[CS]E*"]
 
