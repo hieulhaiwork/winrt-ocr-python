@@ -1,5 +1,5 @@
 [project]
-name = "winrtocr"
+name = "winrt-ocr-python"
 version = "0.1.0"
 authors = [
   { name="Le Hien Hieu", email="hieulh.work@example.com" },
