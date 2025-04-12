@@ -1,0 +1,7 @@
+# Image processing
+numpy
+opencv-python
+pillow
+
+# Handle WinRT API
+winsdk
