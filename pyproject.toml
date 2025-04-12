@@ -16,6 +16,11 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Topic :: Multimedia :: Graphics :: Capture :: Scanners"
 ]
+dependencies = [
+    "winsdk",
+    "numpy",
+    "opencv-python",
+    "pillow"
 license = "Apache-2.0"
 license-files = ["LICEN[CS]E*"]
 
