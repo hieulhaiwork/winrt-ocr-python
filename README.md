@@ -1,9 +1,9 @@
 # WinRT OCR: Take advantage of powerful existing Windows tool
 
-![GitHub License](https://img.shields.io/github/license/hieulhaiwork/winrt-ocr-python)
-![](https://img.shields.io/badge/OS-Win-blue.svg)
+[![GitHub License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://img.shields.io/github/license/hieulhaiwork/winrt-ocr-python)
+![OS](https://img.shields.io/badge/OS-Win-blue.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hieulhaiwork/winrt-ocr-python)
-![Stars](https://img.shields.io/github/stars/hieulhaiwork/winrt-ocr-python)
+[![GitHub Stars](https://img.shields.io/github/stars/hieulhaiwork/winrt-ocr-python?style=social)](https://github.com/hieulhaiwork/winrt-ocr-python/stargazers)
 
 *If you find this repo helpful, please leave me a star, thanks!!!*
 
